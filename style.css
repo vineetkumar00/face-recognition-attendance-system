@@ -1,0 +1,17 @@
+face-recognition-attendance-system/
+│
+├── README.md
+├── requirements.txt
+├── main.py
+├── face_data/
+│   └── [face images stored here]
+├── trained_model/
+│   └── model.yml
+├── attendance/
+│   └── attendance.csv
+├── utils/
+│   └── face_training.py
+│   └── face_detection.py
+│   └── face_recognition.py
+└── gui/
+    └── app_ui.py
