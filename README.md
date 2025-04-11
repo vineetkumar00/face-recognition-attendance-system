@@ -1,2 +1,20 @@
-# face-recognition-attendance-system
-Developed a real-time Face Recognition Attendance System using Python, OpenCV, and TensorFlow with high accuracy and live camera-based detection. Included features like dynamic user management, liveness detection, and automated report generation using SQLite/MySQL and Python libraries.
+# Face Recognition Attendance System
+
+A Python-based real-time face recognition system for automatic attendance logging using OpenCV and LBPH.
+
+## Features
+- Real-time camera-based face detection
+- LBPH model training and recognition
+- Attendance logging to CSV file
+- Modular code for training, detection, and recognition
+
+## Setup
+1. Install dependencies:
+
+ Add images in `face_data/<user_id>/` folders.
+ Train the model:
+
+
+## Project Credits
+Developed by Vineet Kumar & Subhadeep Saha, UIET Panjab University (2025)
+
